@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "itch-io-one-button/main.pyw",
+            "program": "main.pyw",
             "console": "integratedTerminal"
         }
     ]
